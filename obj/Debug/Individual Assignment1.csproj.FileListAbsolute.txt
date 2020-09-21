@@ -1,0 +1,7 @@
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\bin\Debug\Individual Assignment1.exe.config
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\bin\Debug\Individual Assignment1.exe
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\bin\Debug\Individual Assignment1.pdb
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\obj\Debug\Individual Assignment1.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\obj\Debug\Individual Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\obj\Debug\Individual Assignment1.exe
+C:\Users\stefa\OneDrive\Desktop\ISM\Individual Assignment1\Individual Assignment1\obj\Debug\Individual Assignment1.pdb
